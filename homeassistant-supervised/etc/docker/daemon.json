@@ -1,6 +1,7 @@
 {
     "log-driver": "journald",
     "storage-driver": "overlay2",
+    "data-root": "/extdisk/docker",
     "ip6tables": true,
     "experimental": true,
     "log-opts": {
